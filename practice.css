@@ -40,6 +40,8 @@ input{
     background-image:url("fontawesome-free-5.15.4-web/svgs/solid/search.svg");
     background-repeat: no-repeat;
     border-radius: 10px;
+    background-size: 25px;
+    background-position-x: left;
 }
 .demo:hover{
     background-color:gold;
